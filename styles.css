@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+.container{
+   max-width: 900px;
+   width: 100%;
+}
+.box{
+    padding: 20px;
+    margin: 0 auto;
+    background-color: blue;
+}
+.div{
+    display: flex;
+    justify-content: space-around;
+}
+.dimas{
+    width: 100px;
+    height: 100px;
+    background-color: aqua;
+}
